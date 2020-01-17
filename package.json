@@ -19,7 +19,7 @@
     "@angular/platform-browser": "next",
     "@angular/platform-browser-dynamic": "next",
     "@angular/router": "next",
-    "@carsten-leue/ivy-module": "^1",
+    "@carsten-leue/ivy-module": "^1.0.6",
     "@acoustic-content-sdk/api": "^9",
     "@acoustic-content-sdk/ng-api": "^9",
     "rxjs": "~6.5.3",
